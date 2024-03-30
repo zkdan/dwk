@@ -17,23 +17,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Linguistics
+role: Assistant Professor of Linguistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Toronto, Scarborough
+    subhead: Department of Language Studies
     url: https://www.stanford.edu/
-  - name: University of Toronto Scarborough
+    
+  - name: University of Toronto 
+    subhead: Department of Linguistics
   - name: Eyelands Lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - sentence processing
+  - syntactic theory
 
 # Education to show in About widget
 education:
@@ -122,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dave W. Kush is a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection. He teaches at University of Toronto and runs the Eyelands Lab (previously the "ØyeLab" at the Norwegian University of Science and Technology NTNU). 
 {style="text-align: justify;"}
