@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dave W. Kush
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dave
+last_name: Kush
 
 # Status emoji
 status:
@@ -17,12 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Linguistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: University of Toronto Scarborough
+  - name: Eyelands Lab
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -36,15 +38,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Linguistics
+      institution:  University of Maryland
+      year: 
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 
+    - course: BSc in Linguistics
+      institution: University of Michigan
+      year: 
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
