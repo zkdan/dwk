@@ -4,27 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-#   - name: Home
-#     url: '#about'
-#     weight: 10
-  # - name: Posts
-  #   url: '#posts'
-  #   weight: 20
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 30
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 40
-  - name: EyeLands Lab
+  - name: Eyelands Lab
     url: './eyelands-lab'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
-  # - name: Talks
-  #   url: '#talks'
+  # - name: Contact
+  #   url: '#contact'
   #   weight: 60
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV

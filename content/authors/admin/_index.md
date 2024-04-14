@@ -23,11 +23,14 @@ role: Assistant Professor of Linguistics
 organizations:
   - name: University of Toronto, Scarborough
     subhead: Department of Language Studies
-    url: https://www.stanford.edu/
+    url: https://www.utsc.utoronto.ca/dls
     
   - name: University of Toronto 
     subhead: Department of Linguistics
+    url: https://www.linguistics.utoronto.ca/
+
   - name: Eyelands Lab
+    url: './eyelands'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection.
@@ -94,7 +97,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:davewkush @utoronto.ca
 
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
@@ -111,6 +114,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Dave W. Kush is a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection. He teaches at University of Toronto and runs the Eyelands Lab (previously the "ØyeLab" at the Norwegian University of Science and Technology NTNU). 
+I'm a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection. He teaches at University of Toronto and runs the Eyelands Lab (previously the "ØyeLab" at the Norwegian University of Science and Technology NTNU). 
 <!-- {style="text-align: justify;"} -->
