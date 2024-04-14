@@ -30,7 +30,7 @@ organizations:
     url: https://www.linguistics.utoronto.ca/
 
   - name: Eyelands Lab
-    url: './eyelands-lab'
+    url: './eyelands'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection.
@@ -97,7 +97,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:davewkush @utoronto.ca
+    link: mailto:davewkush@utoronto.ca
 
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas

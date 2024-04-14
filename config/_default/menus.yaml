@@ -5,10 +5,10 @@
 
 main:
   - name: Publications
-    url: '#publications'
+    url: 'publications'
     weight: 40
   - name: Eyelands Lab
-    url: './eyelands-lab'
+    url: 'eyelands'
     weight: 50
   # - name: Contact
   #   url: '#contact'
