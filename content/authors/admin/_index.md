@@ -114,5 +114,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection. He teaches at University of Toronto and runs the Eyelands Lab (previously the "ØyeLab" at the Norwegian University of Science and Technology NTNU). 
+I'm a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection. I teach at University of Toronto and runs the Eyelands Lab (previously the "ØyeLab" at the Norwegian University of Science and Technology NTNU). 
 <!-- {style="text-align: justify;"} -->
