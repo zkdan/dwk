@@ -9,6 +9,8 @@ type: page
 sections:
   - block: about
     id: about
+    author: admin
+    username: admin
     content:
       title: About Eyelands Lab
   - block: collection
