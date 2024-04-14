@@ -3,7 +3,7 @@
 title: Dave W. Kush
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: '🇮🇳 [d̪ev kʊʃ] or 🇺🇸/🇨🇦 [deɪ̯v kʰʊʃ]'
 
 # Full name (for SEO)
 first_name: Dave
@@ -11,7 +11,7 @@ last_name: Kush
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧁
 
 # Is this the primary user of the site?
 superuser: true
@@ -96,9 +96,11 @@ social:
     icon_pack: fas
     link: '/#contact'
 
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?hl=en&user=vzKslXkAAAAJ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -111,4 +113,4 @@ highlight_name: true
 ---
 
 Dave W. Kush is a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection. He teaches at University of Toronto and runs the Eyelands Lab (previously the "ØyeLab" at the Norwegian University of Science and Technology NTNU). 
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
