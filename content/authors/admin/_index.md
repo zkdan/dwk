@@ -30,7 +30,7 @@ organizations:
     url: https://www.linguistics.utoronto.ca/
 
   - name: Eyelands Lab
-    url: './eyelands'
+    url: './eyelands-lab'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a linguist whose primary areas of interest are sentence processing, syntactic theory, and their intersection.
