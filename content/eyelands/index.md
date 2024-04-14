@@ -7,9 +7,24 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
-    id: about
+  # - block: about.biography
+  #   id: about
+  #   content:
+  #     title: Biography
+  - block: collection
+    id: publications
     content:
-      title: Biography
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
 
 ---
